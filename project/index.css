@@ -1,0 +1,350 @@
+/*/.header{
+	height: 1000px;
+	width: 1000px;
+}*/
+/*.B
+{
+	height: 200px;
+	width: 200px;
+}*/
+.B{
+	background-image: url('images/LAND.jpg');
+	height: 2000px;
+	width: 70%;
+	background-size: cover;
+}
+i{
+	font-size: 300px;
+	margin-top: 75px;
+}
+.d{
+	margin-left: 1100px;
+}
+.e{
+  margin-left: 750px;
+  font-size: 50px;
+}
+.f{
+	height: 500px;
+	width: 100%px;
+	background-color: white;
+}
+.q
+{
+	font-size: 100px;
+	margin-left: 900px;
+	display: inline;
+}
+.w{
+	font-size: 100px;
+	margin-left: 510px;
+	display: inline;
+}
+.o
+{
+	font-size: 60px;
+	margin-left: 900px;
+}
+.x 
+{
+	font-size: 50px;
+}
+.y 
+{
+	font-size: 65px;
+}
+.n
+{	
+	border: 5px solid red;
+	width: 200px;
+	margin-left: 1900px;
+	margin-top: 50px;
+}
+.j
+{
+	font-size: 400px;
+	color: red;
+	margin-left: 1500px;
+}
+.aa
+{
+	font-size: 60px;
+}
+.bb
+{
+	border-top: 10px solid red;
+	width: 800px;
+}
+.as 
+{
+	background-image: url('images/MOUNTT.jpg');
+	height: 1500px;
+	width: 30%px;
+	background-size: cover;
+	box-sizing: border-box;
+}
+.parent{
+	height: 3000px;
+	width: 3500px;
+	background-color: whitesmoke;
+	margin-left: 1200px;
+	position: relative;
+	margin-top: -550px;
+	/*box-shadow: 5px 5px 5px blue;*/
+}
+.big 
+{
+	height: 4000px;
+	width: 100%px;
+	background-color:white;
+}
+.child1
+{
+	height: 1300px;
+	width: 1500px;
+	background-color: whitesmoke;
+	float: left;
+	/*border: 5px solid red;*/
+	margin-left: 160px;
+	margin-top: 70px;
+}
+.child2
+{
+	height: 1300px;
+	width: 1500px;
+	background-color:whitesmoke;
+	float: right;
+	/*border: 5px solid red;*/
+	margin-right: 160px;
+	margin-top: 70px;
+}
+.spain
+{
+	color: gray;
+	font-size: 70px;
+}
+.camel
+{
+	font-size: 45px;
+	color: gray;
+}
+.show{
+	width: 400px;
+	height:130px;
+	background-color: orange;
+	margin-left: 1550px;
+	margin-top: 50px;
+	font-size: 40px;
+	color: white;
+}
+.bi
+{
+	height: 4000px;
+	width: 100%px;
+/*	background-color: black;*/
+	box-sizing: border-box;
+}
+.parent1
+{
+	height: 3500px;
+	width: 3500px;
+/*	background-color: pink;*/
+	margin-left: 1350px;
+}
+.ch1 
+{
+	height: 1300px;
+	width: 900px;
+	background-color: whitesmoke;
+	float: left;
+	/*border: 5px solid red;*/
+	margin-left: 160px;
+	margin-top: 400px;
+}
+.ch2 
+{
+	height: 1300px;
+	width: 900px;
+	background-color: whitesmoke;
+	float: left;
+	/*border: 5px solid yellow;*/
+	margin-left: 160px;
+	margin-top: 400px;
+}
+.ch3 
+{
+	height: 1300px;
+	width: 900px;
+	background-color: whitesmoke;
+	float: right;
+	/*border: 5px solid red;*/
+	margin-left: 160px;
+	margin-top: 400px;
+	margin-right: 300px;
+}
+.ch33 
+{
+	height: 1300px;
+	width: 900px;
+	background-color: whitesmoke;
+	float: right;
+/*	border: 15px solid red;*/
+	margin-left: 160px;
+	margin-top: 275px;
+	margin-right: 300px;
+}
+.ch4
+{
+	height: 1300px;
+	width: 900px;
+	background-color: whitesmoke;
+	float: right;
+	border: 15px solid green;
+	margin-left: 430px;
+	margin-top: 300px;
+}
+.ch5 
+{
+	height: 1300px;
+	width: 900px;
+	background-color: whitesmoke;
+	float: right;
+	/*border: 5px solid red;*/
+	margin-left: 120px;
+	margin-top: 300px;
+}
+.ch6 
+{
+	height: 1300px;
+	width: 900px;
+	background-color: whitesmoke;
+	float: right;
+/*	border: 15px solid red;*/
+	margin-left: 30px;
+	margin-top: 300px;
+}
+.ji
+{
+	font-size: 200px;
+	color: gray;
+	margin-left: 2300px;
+}
+.name
+{
+	width: 100%px;
+	height: 250px;
+/*	background-color: red;*/
+}
+.na{
+	width: 650px;
+	height: 90px;
+	margin-left: 2300px;
+	font-size: 50px;
+}
+.naa{
+	width: 650px;
+	height: 90px;
+	margin-left: 80px;
+	font-size: 50px;
+}
+.showw{
+	width: 350px;
+	height:100px;
+	background-color: orange;
+	margin-left: 70px;
+	margin-top: 50px;
+	font-size: 40px;
+	color: white;
+}
+.az
+{
+	font-size: 300px;
+	color: red;
+}
+.ash
+{
+	background-image: url('images/MOUNTT.jpg');
+	height: 2500px;
+	width: 30%px;
+	background-size: cover;
+	box-sizing: border-box;
+}
+.parentt{
+	height: 3000px;
+	width: 3500px;
+	background-color: white;
+	margin-left: 1200px;
+	position: relative;
+	margin-top: -550px;
+	box-shadow: 5px 5px 5pxblue;
+	/*border: 10px solid pink;*/
+}
+.showww{
+	width: 400px;
+	height:130px;
+	background-color: darkorange;
+	margin-left: 2850px;
+	margin-top: 50px;
+	font-size: 40px;
+	color: white;
+}
+.child11
+{
+	height: 1300px;
+	width: 1500px;
+	background-color: whitesmoke;
+	float: left;
+	border: 5px solid gray;
+	margin-left: 160px;
+	margin-top: 70px;
+}
+.child22
+{
+	height: 1300px;
+	width: 1500px;
+	background-color:whitesmoke;
+	float: right;
+	border: 5px solid gray;
+	margin-right: 160px;
+	margin-top: 70px;
+}
+.black
+{
+	height: 900px;
+	width: 100%px;
+	background-color: black;
+}
+.bigg 
+{
+	height: 3000px;
+	width: 100%px;
+	background-color:white;
+}
+.black{
+	font-size: 50px;
+	color: white;
+}
+.hh{
+	border-top: 5px solid white;
+	width: 5000px;
+}
+.grey
+{
+	height: 200px;
+	width: 100%px;
+	background-color: brown;
+}
+.but
+{
+	height: 150px;
+	width: 500px;
+	font-size: 50px;
+	margin-top: 1150px;
+	color: grey;
+	background-color: none;
+}
+.ho 
+{
+		margin-top: 300px;
+		font-size: 100px;
+}
